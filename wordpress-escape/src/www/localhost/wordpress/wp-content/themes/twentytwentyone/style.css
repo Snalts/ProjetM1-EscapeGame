@@ -5053,13 +5053,13 @@ h1.page-title {
 
 .primary-navigation .current-menu-item > a:first-child,
 .primary-navigation .current_page_item > a:first-child {
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 	text-decoration-style: solid;
 }
 
 .primary-navigation .current-menu-item > a:first-child:hover,
 .primary-navigation .current_page_item > a:first-child:hover {
-	text-decoration: underline;
+	/*text-decoration: underline;*/
 	text-decoration-style: dotted;
 }
 

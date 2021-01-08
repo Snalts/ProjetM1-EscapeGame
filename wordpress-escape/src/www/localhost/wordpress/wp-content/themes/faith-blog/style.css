@@ -9319,7 +9319,7 @@ body.page {
 }
 
 #cssmenu>ul>li>a {
-    padding: 1.0625rem;
+    padding: 20px;
     letter-spacing: 0.0625rem;
     text-decoration: none;
     color: #242323;
